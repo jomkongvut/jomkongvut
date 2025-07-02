@@ -33,9 +33,8 @@ I'm an Automation Tester
 
 <p align="left">
   <a href="https://chromewebstore.google.com/detail/thai-citizen-id-generator/epjdfiocihakcbcndegikddpdokoanip" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width="36" height="36" alt="Chrome Extension" title="Thai Citizen ID Generator"/>
+    <span>- Thai Citizen ID Generator</span>
   </a>
-  <span> → <strong>Thai Citizen ID Generator</span>
 </p>
 
 ---
