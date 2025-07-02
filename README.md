@@ -32,10 +32,30 @@ I'm an Automation Tester
 ### 🔧 My Chrome Extension
 
 <p align="left">
-  <a href="https://chromewebstore.google.com/detail/thai-citizen-id-generator/epjdfiocihakcbcndegikddpdokoanip" target="_blank" rel="noreferrer">
-    <span>- Thai Citizen ID Generator</span>
+  <a href="https://chromewebstore.google.com/detail/thai-citizen-id-generator/epjdfiocihakcbcndegikddpdokoanip" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; text-decoration: none; margin-bottom: 8px;">
+    <img
+      src="https://lh3.googleusercontent.com/Ia_AH2eh3iUBsisaCNwH0Ei3vBDw5dAiWR1NRET8XTgzk2-EmLGH_1B81zhQ9fNW8YGsi-YTGExExoBopZhpsrS_PME=s60"
+      width="36" height="36"
+      alt="Thai Citizen ID Generator"
+      title="Thai Citizen ID Generator"
+    >
+    <span style="margin-left: 8px;">Thai Citizen ID Generator</span>
   </a>
 </p>
+
+<p align="left">
+  <a href="https://chromewebstore.google.com/detail/curl-extractor/nachklacnhahejdgfeggbalaiibkjoin" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img
+      src="https://lh3.googleusercontent.com/D8LKo5MYkVDLYSx2WodhaXhqorCYOy3eOBxQZ-4-1943eFgzhViq-Sc7351b-SXwJuLMn5AZ-Qi8kEtBiXB3o2YTvQ=s60"
+      width="36" height="36"
+      alt="cURL Extractor"
+      title="cURL Extractor"
+    >
+    <span style="margin-left: 8px;">cURL Extractor</span>
+  </a>
+</p>
+
+
 
 ---
 
