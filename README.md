@@ -52,6 +52,17 @@ I'm an Automation Tester
   </a>
 </p>
 
+<p align="left">
+  <a href="https://chromewebstore.google.com/detail/curl-extractor/nachklacnhahejdgfeggbalaiibkjoin" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img
+      src="https://lh3.googleusercontent.com/D8LKo5MYkVDLYSx2WodhaXhqorCYOy3eOBxQZ-4-1943eFgzhViq-Sc7351b-SXwJuLMn5AZ-Qi8kEtBiXB3o2YTvQ=s60"
+      width="36" height="36"
+      alt="Color Blindness Helper"
+      title="Color Blindness Helper"
+    >
+    <span style="margin-left: 8px;">Color Blindness Helper</span>
+  </a>
+</p>
 
 
 ---
