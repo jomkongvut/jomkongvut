@@ -55,7 +55,7 @@ I'm an Automation Tester
 <p align="left">
   <a href="https://chromewebstore.google.com/detail/curl-extractor/nachklacnhahejdgfeggbalaiibkjoin" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img
-      src="https://lh3.googleusercontent.com/D8LKo5MYkVDLYSx2WodhaXhqorCYOy3eOBxQZ-4-1943eFgzhViq-Sc7351b-SXwJuLMn5AZ-Qi8kEtBiXB3o2YTvQ=s60"
+      src="https://lh3.googleusercontent.com/iphwNLzA0X2A0LtkqTiWGPB3MdIs1WmFtW0ZsCXjgPhYak8WfnkUWKnfX0p4ZfJ3qpte1Y9hnegsRVzZol_yfu3KcV0=s60"
       width="36" height="36"
       alt="Color Blindness Helper"
       title="Color Blindness Helper"
