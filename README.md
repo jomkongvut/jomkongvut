@@ -51,7 +51,7 @@ Domain depth in **payments, refunds, orders and ERP integrations**. I enjoy trac
 
 **Things I'm proud of**
 
-- 💸 Caught **money-level bugs before production** — most of them while writing the tests, not from user reports
+- 🖥️ Built an internal **QA Plan web app** from scratch — sprint planning, rework and test coverage reports, all in one place instead of spreadsheets
 - 🧩 Turned personal know-how into a **team asset** — a reusable AI skill portfolio covering the whole QA workflow
 - 🔬 **Measured** whether each skill actually works, instead of assuming it does
 - 🧱 Set **process standards** that make E2E tests stable and regression runs repeatable across releases
