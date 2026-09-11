@@ -51,10 +51,10 @@ Domain depth in **payments, refunds, orders and ERP integrations**. I enjoy trac
 
 **Things I'm proud of**
 
-- 💸 Caught several **money-level bugs before production** — refund bypassing a feature flag, a 100% coupon leaving 0.01 behind, a price multiplied by 100 on the way to the payment gateway. Most were found while *writing the spec*, not from user reports.
-- 🧩 Turned personal know-how into a **team asset**: a skill portfolio covering the whole QA workflow (ticket → AC gap review → test design → automate → run → evidence → sync), plus a router that tells you which skill to use and in what order.
-- 🔬 Validated every skill with **baseline vs. with-skill adversarial runs** in fresh contexts — to prove it actually changes the outcome.
-- 🧱 Set process-level standards: `data-testid` conventions for stable E2E, automation traffic separated from real users on pre-prod, and a "no skipping red tests — fix the root cause" rule for full-suite regression.
+- 💸 Caught **money-level bugs before production** — most of them while writing the tests, not from user reports
+- 🧩 Turned personal know-how into a **team asset** — a reusable AI skill portfolio covering the whole QA workflow
+- 🔬 **Measured** whether each skill actually works, instead of assuming it does
+- 🧱 Set **process standards** that make E2E tests stable and regression runs repeatable across releases
 
 ---
 
