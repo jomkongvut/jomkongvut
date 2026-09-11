@@ -126,6 +126,7 @@ Small tools I built to make testing life easier.
 
 ## 🎯 Currently exploring
 
+- **AI-driven testing straight from Jira** — an agent picks up the ticket, tests it, captures the evidence, and reports the result on its own
 - Making automation a true **regression gate** for every module
 - Consolidating scattered AI skills into a single source with a short onboarding path
 - Making **AC gap review** a habit *before* execution, not a discovery *during* it
