@@ -30,7 +30,7 @@ Domain depth in **payments, refunds, orders and ERP integrations**. I enjoy trac
 
 ## 🔧 What I'm doing now
 
-- 🧪 Maintaining an automated test suite of **~400 specs** (API + E2E) with Playwright + TypeScript
+- 🧪 Maintaining an automated test suite of **1,550+ test cases** in 177 spec files (API + E2E) with Playwright + TypeScript
 - 🤖 Designing **multi-agent pipelines** that go `requirement → test case → spec → run → evidence`
 - 🩹 Building **self-healing agents** that read a failing test and repair the locator / flow on their own
 - 📊 Building internal tooling so the QA team plans sprints from **real coverage data**, not spreadsheets
@@ -44,8 +44,8 @@ Domain depth in **payments, refunds, orders and ERP integrations**. I enjoy trac
 
 | 🧪 Automation | 🚀 Delivery | 🤖 AI / Agents | 🛠️ Tooling |
 |:---:|:---:|:---:|:---:|
-| **300+** automated test cases added in a year | **20+** regression cycles across a major release + patches, **zero rollbacks** | **25+** AI skills & agents in real daily use | Internal QA planning web app — **30+ PRs** merged in 2 months |
-| **~400** spec files under care (API ≈ 260 / E2E ≈ 140) | Single sprint: **+11K lines**, 25 new spec files | Multi-agent Swagger → API test generator | **6** Chrome extensions published — **570+** users |
+| **1,300+** automated test cases added in a year (235 → 1,557) | **20+** regression cycles across a major release + patches, **zero rollbacks** | **25+** AI skills & agents in real daily use | Internal QA planning web app — **30+ PRs** merged in 2 months |
+| **177** spec files under care (API 128 files / 1,131 tests · E2E 49 files / 426 tests) | Single sprint: **+11K lines**, 25 new spec files | Multi-agent Swagger → API test generator | **6** Chrome extensions published — **570+** users |
 | Page load & API response **≤ 3s** checked on every run | Own the **sprint QA plan** & lead **outsourced testers** | AI agents test Jira cards end-to-end with evidence | AI-generated test cases filled **empty test suites** |
 
 </div>
