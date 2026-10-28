@@ -132,11 +132,6 @@ Domain depth in **payments, refunds, orders and ERP integrations**. I enjoy trac
 | <img src="https://lh3.googleusercontent.com/JdHDFqfygkGCfPpSDZ-6ojpyOM5Zg_FHlO2r7wZvRR9J2zuSRlNIccGQV8KbbKYOOhw_y0RGrU0AoziRcnfW57GH=s60" width="36" height="36" alt="FollowLens"/> | [**FollowLens**](https://chromewebstore.google.com/detail/followlens-unfollow-follo/bmmpkinmlbinakcphgnbibdjpmiinlgh) | Instagram follower analytics — who doesn't follow back, spam / no-photo accounts, mutuals, safe unfollow | 35+ |
 | <img src="https://lh3.googleusercontent.com/ssJwpRy_axn-1YJ7Qsg10fCDvTFu2qt9nWo8LPN9QsXfzrfMuyTWszdtKwmiiDF0oV6tJNmVEZ6O-4-wkavdGUId=s60" width="36" height="36" alt="Focus Mode"/> | [**Focus Mode**](https://chromewebstore.google.com/detail/focus-mode/kehfpjmmgmhggpbnkckenaidpklhlfhl) | Block distracting websites during work hours | 🆕 |
 
----:|:---|:---|
-| <img src="https://lh3.googleusercontent.com/Ia_AH2eh3iUBsisaCNwH0Ei3vBDw5dAiWR1NRET8XTgzk2-EmLGH_1B81zhQ9fNW8YGsi-YTGExExoBopZhpsrS_PME=s60" width="36" height="36" alt="Thai Citizen ID Generator"/> | [**Thai Citizen ID Generator**](https://chromewebstore.google.com/detail/thai-citizen-id-generator/epjdfiocihakcbcndegikddpdokoanip) | Generate valid Thai citizen IDs for test data |
-| <img src="https://lh3.googleusercontent.com/D8LKo5MYkVDLYSx2WodhaXhqorCYOy3eOBxQZ-4-1943eFgzhViq-Sc7351b-SXwJuLMn5AZ-Qi8kEtBiXB3o2YTvQ=s60" width="36" height="36" alt="cURL Extractor"/> | [**cURL Extractor**](https://chromewebstore.google.com/detail/curl-extractor/nachklacnhahejdgfeggbalaiibkjoin) | Grab requests as cURL straight from the browser |
-| <img src="https://lh3.googleusercontent.com/iphwNLzA0X2A0LtkqTiWGPB3MdIs1WmFtW0ZsCXjgPhYak8WfnkUWKnfX0p4ZfJ3qpte1Y9hnegsRVzZol_yfu3KcV0=s60" width="36" height="36" alt="Color Blindness Helper"/> | [**Color Blindness Helper**](https://chromewebstore.google.com/detail/color-blindness-helper/lflngcmcofhddlnefdcmgjepmpgldhlb) | Simulate color vision deficiencies for accessibility checks |
-
 ---
 
 ## 🎯 Currently exploring
