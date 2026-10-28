@@ -45,7 +45,7 @@ Domain depth in **payments, refunds, orders and ERP integrations**. I enjoy trac
 | 🧪 Automation | 🚀 Delivery | 🤖 AI / Agents | 🛠️ Tooling |
 |:---:|:---:|:---:|:---:|
 | **300+** automated test cases added in a year | **20+** regression cycles across a major release + patches, **zero rollbacks** | **25+** AI skills & agents in real daily use | Internal QA planning web app — **30+ PRs** merged in 2 months |
-| **~400** spec files under care (API ≈ 260 / E2E ≈ 140) | Single sprint: **+11K lines**, 25 new spec files | Multi-agent Swagger → API test generator | Chrome extensions used by QA teams |
+| **~400** spec files under care (API ≈ 260 / E2E ≈ 140) | Single sprint: **+11K lines**, 25 new spec files | Multi-agent Swagger → API test generator | **6** Chrome extensions published — **570+** users |
 
 </div>
 
@@ -114,10 +114,25 @@ Domain depth in **payments, refunds, orders and ERP integrations**. I enjoy trac
 
 ## 🧩 Chrome Extensions
 
-Small tools I built to make testing life easier.
+**6 extensions** published on the [Chrome Web Store](https://chromewebstore.google.com/search/jomkongvut) — small tools I built to make testing (and daily) life easier.
 
-| | Extension | What it does |
-|:---:|:---|:---|
+**🧪 For QA & developers**
+
+| | Extension | What it does | Users |
+|:---:|:---|:---|:---:|
+| <img src="https://lh3.googleusercontent.com/UKuOGzkdqFf9vUfjsJSbY-i3VrMR5XFD4Ql3ev5CxspeOkAqOUwlkCoXuSDb9hmNtdRYLQ3GPmEJc-y_XyuIlTArpQ=s60" width="36" height="36" alt="Thai Citizen ID Generator"/> | [**Thai Citizen ID Generator**](https://chromewebstore.google.com/detail/thai-citizen-id-generator/epjdfiocihakcbcndegikddpdokoanip) | Generate valid Thai citizen IDs & test profiles — bulk generate, validate, autofill, export CSV/JSON | 430+ ⭐ 5.0 |
+| <img src="https://lh3.googleusercontent.com/D8LKo5MYkVDLYSx2WodhaXhqorCYOy3eOBxQZ-4-1943eFgzhViq-Sc7351b-SXwJuLMn5AZ-Qi8kEtBiXB3o2YTvQ=s60" width="36" height="36" alt="cURL Extractor"/> | [**cURL Extractor**](https://chromewebstore.google.com/detail/curl-extractor/nachklacnhahejdgfeggbalaiibkjoin) | Parse & edit cURL, convert to 16 languages, export to Postman / Insomnia / HAR, send requests | 50+ |
+| <img src="https://lh3.googleusercontent.com/lmAEWDOyB8_xpxX0AM2DEcy9FoNQ95LAFGdz2geIXKswqw7lj-gqdPkB4bAKkl68-GB5gvEPHUUBETXEng2yqNzWloc=s60" width="36" height="36" alt="Color Blindness Helper"/> | [**Color Blindness Helper**](https://chromewebstore.google.com/detail/color-blindness-helper/lflngcmcofhddlnefdcmgjepmpgldhlb) | Simulate color vision deficiencies for accessibility checks | 55+ |
+
+**⚡ Productivity**
+
+| | Extension | What it does | Users |
+|:---:|:---|:---|:---:|
+| <img src="https://lh3.googleusercontent.com/GGwsClIIILHa8aN2LEleidyRot-luava753zLmML9hEbvTH56S2JqlTv2sKImlHkd5i0ySNzzoRciJYdaYdX4BeHyA=s60" width="36" height="36" alt="English Fixer — Thai to Natural English"/> | [**English Fixer — Thai to Natural English**](https://chromewebstore.google.com/detail/english-fixer-%E2%80%94-thai-to-n/fmmphghfobabcdchmfmhenbbgedchmfi) | Rewrite Thai or broken English into natural English with free on-device AI — 3 tones, right-click anywhere | 🆕 |
+| <img src="https://lh3.googleusercontent.com/JdHDFqfygkGCfPpSDZ-6ojpyOM5Zg_FHlO2r7wZvRR9J2zuSRlNIccGQV8KbbKYOOhw_y0RGrU0AoziRcnfW57GH=s60" width="36" height="36" alt="FollowLens"/> | [**FollowLens**](https://chromewebstore.google.com/detail/followlens-unfollow-follo/bmmpkinmlbinakcphgnbibdjpmiinlgh) | Instagram follower analytics — who doesn't follow back, spam / no-photo accounts, mutuals, safe unfollow | 35+ |
+| <img src="https://lh3.googleusercontent.com/ssJwpRy_axn-1YJ7Qsg10fCDvTFu2qt9nWo8LPN9QsXfzrfMuyTWszdtKwmiiDF0oV6tJNmVEZ6O-4-wkavdGUId=s60" width="36" height="36" alt="Focus Mode"/> | [**Focus Mode**](https://chromewebstore.google.com/detail/focus-mode/kehfpjmmgmhggpbnkckenaidpklhlfhl) | Block distracting websites during work hours | 🆕 |
+
+---:|:---|:---|
 | <img src="https://lh3.googleusercontent.com/Ia_AH2eh3iUBsisaCNwH0Ei3vBDw5dAiWR1NRET8XTgzk2-EmLGH_1B81zhQ9fNW8YGsi-YTGExExoBopZhpsrS_PME=s60" width="36" height="36" alt="Thai Citizen ID Generator"/> | [**Thai Citizen ID Generator**](https://chromewebstore.google.com/detail/thai-citizen-id-generator/epjdfiocihakcbcndegikddpdokoanip) | Generate valid Thai citizen IDs for test data |
 | <img src="https://lh3.googleusercontent.com/D8LKo5MYkVDLYSx2WodhaXhqorCYOy3eOBxQZ-4-1943eFgzhViq-Sc7351b-SXwJuLMn5AZ-Qi8kEtBiXB3o2YTvQ=s60" width="36" height="36" alt="cURL Extractor"/> | [**cURL Extractor**](https://chromewebstore.google.com/detail/curl-extractor/nachklacnhahejdgfeggbalaiibkjoin) | Grab requests as cURL straight from the browser |
 | <img src="https://lh3.googleusercontent.com/iphwNLzA0X2A0LtkqTiWGPB3MdIs1WmFtW0ZsCXjgPhYak8WfnkUWKnfX0p4ZfJ3qpte1Y9hnegsRVzZol_yfu3KcV0=s60" width="36" height="36" alt="Color Blindness Helper"/> | [**Color Blindness Helper**](https://chromewebstore.google.com/detail/color-blindness-helper/lflngcmcofhddlnefdcmgjepmpgldhlb) | Simulate color vision deficiencies for accessibility checks |
