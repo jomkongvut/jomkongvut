@@ -46,6 +46,7 @@ Domain depth in **payments, refunds, orders and ERP integrations**. I enjoy trac
 |:---:|:---:|:---:|:---:|
 | **300+** automated test cases added in a year | **20+** regression cycles across a major release + patches, **zero rollbacks** | **25+** AI skills & agents in real daily use | Internal QA planning web app — **30+ PRs** merged in 2 months |
 | **~400** spec files under care (API ≈ 260 / E2E ≈ 140) | Single sprint: **+11K lines**, 25 new spec files | Multi-agent Swagger → API test generator | **6** Chrome extensions published — **570+** users |
+| Page load & API response **≤ 3s** checked on every run | Own the **sprint QA plan** & lead **outsourced testers** | AI agents test Jira cards end-to-end with evidence | AI-generated test cases filled **empty test suites** |
 
 </div>
 
@@ -55,6 +56,8 @@ Domain depth in **payments, refunds, orders and ERP integrations**. I enjoy trac
 - 🧩 Turned personal know-how into a **team asset** — a reusable AI skill portfolio covering the whole QA workflow
 - 🔬 **Measured** whether each skill actually works, instead of assuming it does
 - 🧱 Set **process standards** that make E2E tests stable and regression runs repeatable across releases
+- 🤖 Made **AI agents the main way to test Jira cards** — run, verify and capture evidence in one loop, results posted back to Jira / test management
+- 📋 Own the **sprint QA plan** — effort estimates, QA owners, capacity vs workload — and **lead outsourced QA testers** from onboarding to test and bug review
 
 ---
 
